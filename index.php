@@ -1,11 +1,17 @@
 <?php
 /*
  * File: C:\XAMPP\htdocs\wmark\index.php
- * Version: 2.1.0
+ * Version: 3.0.0
  * Date: 2025-01-18
- * Time: 14:30:00
- * Description: PDF Watermark Application with Multiple Image Support
- * Added support for placing different images on different PDF pages with individual positioning
+ * Time: 16:45:00
+ * Description: Advanced PDF Watermark Application with Mixed Content Support
+ * Major Features:
+ * - Support for simultaneous text and image watermarks
+ * - Basic mode: Simple toggle-based watermark management
+ * - Advanced mode: Per-page customization with individual positioning
+ * - Modal-based page editor with drag-and-drop functionality
+ * - Backward compatibility with existing presets
+ * - Enhanced print system supporting mixed watermarks
  */
 ?>
 <!DOCTYPE html>
